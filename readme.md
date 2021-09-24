@@ -2,6 +2,8 @@
 
 Projede OOP tekniklerini kullanarak web sitesi geliştirdim.
 
+Parent Animal Classından türeyen Dog ve Duck classlarından üretilen objeler card olarak ana ekrana bastırılıyor.
+
 # Kullanılan Teknolojiler: 
 
 -HTML
