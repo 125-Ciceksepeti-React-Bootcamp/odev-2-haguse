@@ -1,12 +1,11 @@
-## Patika.dev - Çiçeksepeti React Bootcamp'i için gerçekleştirdiğim 2. ödev
+## Patika.dev - Ciceksepet React Bootcamp Homework 2
 
-Projede OOP tekniklerini kullanarak web sitesi geliştirdim.
+I developed a website using OOP techniques in the project.
 
-Parent Animal Classından türeyen Dog ve Duck classlarından üretilen objeler card olarak ana ekrana bastırılıyor.
+Objects produced from Dog and Duck classes derived from Parent Animal Class are rendered to the main page as cards.
 
-Dist klasörü içindeki index.html ile proje çalıştırılabilir.
-
-# Kullanılan Teknolojiler: 
+The project can be run with index.html in the dist folder.
+# Built With
 
 -HTML
 
