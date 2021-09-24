@@ -1,7 +1,10 @@
 /* Roboto Font */
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-/* Reset CSS */
-@import "../src/reset.css";
+
+body {
+  margin: 0;
+  padding: 0;
+}
 
 * {
   box-sizing: border-box;
